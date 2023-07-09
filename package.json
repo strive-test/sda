@@ -1,6 +1,6 @@
 {
   "name": "sda",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "das",
   "scripts": {
@@ -19,7 +19,9 @@
     "core-js": "^3.8.3",
     "lodash-es": "^4.17.21"
   },
-  "files": ["example"],
+  "files": [
+    "example"
+  ],
   "devDependencies": {
     "@rollup/plugin-json": "^6.0.0",
     "@rollup/plugin-node-resolve": "^15.0.2",
